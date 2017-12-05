@@ -1,0 +1,29 @@
+img{
+  width: 140px;
+  margin: 10px;
+  height: 250px;
+  border: 10px dashed orangered;
+  display: block;
+  box-sizing: border-box;
+
+}
+div{
+  width: 50px;
+  height: 70px;
+  border: 2px solid red;
+  /*padding: 10px;*/
+  /*border-radius: 100%;*/
+  background-image: url("001.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+   display: inline-block;
+   box-sizing: border-box;
+}
+.another{
+  border: 10px;
+  border:groove orangered ;
+  padding: 4px;
+  margin: 10px;
+  /*box-sizing: border-box;*/
+
+}

@@ -1,0 +1,13 @@
+img{
+  width: 120px;
+  height: 200px;
+  border: 10px groove orangered;
+}
+div{
+  /*width: 20000px;*/
+  /*height: 100px;*/
+  border: 10px solidred;
+}
+.another{
+  border: dashed;
+}

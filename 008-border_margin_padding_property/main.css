@@ -1,0 +1,23 @@
+img{
+  width: 120px;
+  height: 200px;
+  border: 10px dashed orangered;
+  display: block;
+
+}
+div{
+  width: 50px;
+  height: 70px;
+  border: 2px solid red;
+  /*border-radius: 100%;*/
+  background-image: url("001.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+   display: inline-block;
+}
+.another{
+  border: 10px;
+  border:groove orangered ;
+  padding: 10px;
+  margin: 10px;
+}

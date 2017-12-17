@@ -1,0 +1,9 @@
+body{
+  font-size: 29px;
+}
+li:nth-last-child(2){
+  color: red
+}
+ul:nth-last-child(2){
+  background-color: yellow;
+}

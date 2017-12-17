@@ -1,0 +1,10 @@
+img{
+  width: 200px;
+  height: 300px;
+  border-radius: 100%;
+  border: 10px groove orange;
+  display: block;
+  margin: 100px auto;
+background-color: blue;
+
+}

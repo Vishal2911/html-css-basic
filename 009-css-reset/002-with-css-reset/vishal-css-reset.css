@@ -1,0 +1,12 @@
+html,div,p,h1,h2,h3,h4,h5,h6,body,ul,ol,span,img,header,select{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+  line-height: 1;
+  border-radius: 0;
+  outline: none;
+}
+/*keep on adding the terms (tags) as they come in the way*/

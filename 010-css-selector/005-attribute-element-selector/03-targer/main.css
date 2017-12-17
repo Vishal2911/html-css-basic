@@ -1,0 +1,10 @@
+body{
+font-size: 36px;
+text-align: center;
+}
+[target=_blank]{
+color: red;
+}
+[target=_self]{
+  color: green;
+}

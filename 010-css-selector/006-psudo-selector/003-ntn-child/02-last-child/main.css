@@ -1,0 +1,12 @@
+body{
+  font-size: 29px;
+}
+li:last-child{
+  color: red
+}
+ul:last-child{
+  background-color: yellow;
+}
+body:last-child{
+  border: 2px solid green;
+}

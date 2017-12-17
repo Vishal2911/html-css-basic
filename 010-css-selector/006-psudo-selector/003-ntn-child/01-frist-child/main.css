@@ -1,0 +1,9 @@
+body{
+  font-size: 29px;
+}
+li:first-child{
+  color: red
+}
+ul:first-child{
+  background-color: yellow;
+}

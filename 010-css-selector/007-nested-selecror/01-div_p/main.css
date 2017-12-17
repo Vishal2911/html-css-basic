@@ -1,0 +1,18 @@
+body{
+  font-size: 29px;
+  text-align: center;
+  color: red;
+}
+/*p::first-letter{
+  font-size: 39px;
+  font-family: cursive;
+  color: yellow;
+  margin: inherit;
+}
+p::first-line{
+  color: yellow;
+
+}*/
+div p{
+  border: 1px dashed orange;
+}

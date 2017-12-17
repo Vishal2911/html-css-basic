@@ -1,0 +1,21 @@
+header{
+  margin: 10px;
+  padding: 20PX;
+}
+section{
+  padding: 10px;
+  margin: 20px;
+}
+article{
+  margin: 30px;
+  padding: 20px;
+}
+aside{
+  border: 10px;
+}
+aside footer{
+  /*this rule set act as multiple css selector*/
+  margin: 10px;
+  padding: 10px;
+  border: 1px;
+}

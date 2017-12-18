@@ -1,0 +1,45 @@
+html,div,p,h1,h2,h3,h4,h5,h6,body,ul,ol,span,img,header,select{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+  line-height: 1;
+  border-radius: 0;
+  outline: none;
+}
+html{
+  width: 100%;
+  height: 100% inherit;
+  border: 3px solid black;
+  background-color: darkblue;
+}
+body{
+  width: 50% ;
+  height: 100% inherit;
+  border: 3px solid black;
+margin: auto;
+background-color: lightblue;
+}
+img{
+  width: 100% inherit;
+  height: 300px ;
+  margin: auto;
+  display: block;
+  border: 2px ridge orange;
+  border-radius: 100%;
+}
+h1,h2{
+
+  font-size: 29px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+#primary{
+  color: red;
+}
+#secondary{
+  color: blue;
+}
